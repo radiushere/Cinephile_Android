@@ -85,7 +85,3 @@ You can install the latest version of the app directly on your Android device.
 
 *   This application uses the [TMDb API](https://www.themoviedb.org/documentation/api) but is not endorsed or certified by TMDb.
 *   Huge thanks to all the developers behind the open-source libraries that made this project possible.
-
-## 📜 License
-
-This project is licensed under the MIT License. You can find the license file [here](https://github.com/radiushere/Cinephile_Android/blob/main/LICENSE).
